@@ -494,9 +494,9 @@ var games = [
   },
   {
     id: '1on1basketball',
-    title: '1 On 1 Basketball',
-    url: 'https://google-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/1ee20621-61bc-4ec8-a8ec-5e839c2e6edc%2F1-on-1-basketball.xml',
-    image: 'https://tgkathletics.com/wp-content/uploads/2020/01/1-on-1-Bball-5.jpg'
+    title: 'Basketball Stars',
+    url: 'https://5dd33196-015f-11ea-ad56-9cb6d0d995f7.poki-gdn.com/36935933-5052-4dad-80ac-ae6f13020276/index.html?country=US&ccpaApplies=0&url_referrer=https%3A%2F%2Fpoki.com%2F&tag=pg-9551b1fb395dc7535d35465bb0dbce1e5a09497f&site_id=3&iso_lang=en&poki_url=https%3A%2F%2Fpoki.com%2Fen%2Fg%2Fbasketball-stars&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&categories=2%2C76%2C130%2C750%2C775%2C929%2C1103%2C1109%2C1123%2C1139%2C1140%2C1147%2C1168%2C1193%2C1201%2C1202&game_id=5dd33196-015f-11ea-ad56-9cb6d0d995f7&game_version_id=36935933-5052-4dad-80ac-ae6f13020276&inspector=0&csp=1',
+    image: 'https://img.poki-cdn.com/cdn-cgi/image/quality=78,width=40,height=40,fit=cover,f=auto/bc02c9cdfc5b424ddf343b01edf791ce.png'
   },
   {
     id: 'johnnyupgrade',
