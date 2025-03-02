@@ -344,8 +344,8 @@ var games = [
   },
   {
     id: 'bloxors',
-    title: 'Bloxors',
-    url: 'https://assets.3kh0.net/bloxors/index.html',
+    title: 'Bloxorz',
+    url: 'https://www.coolmathgames.com/0-bloxorz/play',
     image: 'https://play-lh.googleusercontent.com/FHpA3r3FHDzVNtBpjpi9Zq8JA81bvRXBEbdkBvL3COOucsMfn_fYYhEFE5g55VkeSQ'
   },
   {
