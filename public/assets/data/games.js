@@ -423,7 +423,7 @@ var games = [
   {
     id: '2048',
     title: '2048',
-    url: 'https://play2048.co/',
+    url: 'https://26749800-1dbe-11ea-a2d8-f21898135c45.poki-gdn.com/e7f92ba8-48a8-4001-8b27-95508dba83a2/index.html?country=US&ccpaApplies=0&url_referrer=https%3A%2F%2Fpoki.com%2F&tag=pg-9551b1fb395dc7535d35465bb0dbce1e5a09497f&site_id=3&iso_lang=en&poki_url=https%3A%2F%2Fpoki.com%2Fen%2Fg%2F2048&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&categories=7%2C35%2C72%2C400%2C823%2C832%2C852%2C891%2C933%2C1103%2C1126%2C1143%2C1155&game_id=26749800-1dbe-11ea-a2d8-f21898135c45&game_version_id=e7f92ba8-48a8-4001-8b27-95508dba83a2&inspector=0&csp=1',
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2048_logo.svg/220px-2048_logo.svg.png'
   },
   {
