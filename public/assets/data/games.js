@@ -423,7 +423,7 @@ var games = [
   {
     id: '2048',
     title: '2048',
-    url: 'https://assets.3kh0.net/2048/index.html',
+    url: 'https://play2048.co/',
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2048_logo.svg/220px-2048_logo.svg.png'
   },
   {
