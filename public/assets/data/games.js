@@ -439,7 +439,7 @@ var games = [
   {
     id: 'recoil',
     title: 'Recoil',
-    url: 'https://rawcdn.githack.com/nightrose-labs/quartz/b0687b5099af0b76aedf37743f2d03cbeef26467/2/5cf218d2-f550-420c-8e55-7029efc5b4db/index.html',
+    url: 'https://45d94cd0-12d0-4056-93a0-f0cc96ce818b.poki-gdn.com/29a6ef65-4b2d-4e0a-8e06-277b83ce3448/index.html?country=US&ccpaApplies=0&url_referrer=https%3A%2F%2Fpoki.com%2F&tag=pg-9551b1fb395dc7535d35465bb0dbce1e5a09497f&site_id=3&iso_lang=en&poki_url=https%3A%2F%2Fpoki.com%2Fen%2Fg%2Frecoil&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&categories=3%2C37%2C72%2C77%2C103%2C385%2C929%2C1141&special_condition=landing&game_id=45d94cd0-12d0-4056-93a0-f0cc96ce818b&game_version_id=29a6ef65-4b2d-4e0a-8e06-277b83ce3448&inspector=0&csp=1',
     image: 'https://rawcdn.githack.com/nightrose-labs/quartz/master/thumb/5cf218d2-f550-420c-8e55-7029efc5b4db.jpg'
   },
   {
