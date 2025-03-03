@@ -64,7 +64,7 @@ var games = [
   {
     id: 'cuttherope',
     title: 'Cut the Rope',
-    url: 'https://assets.3kh0.net/ctr/index.html',
+    url: 'https://www.coolmathgames.com/0-cut-the-rope/play',
     image: 'https://play-lh.googleusercontent.com/8FNcAyLXtQB_0Ux2ZO8VZoEoihL6a5VMBNf6V2lydRM24hXLnNUdlEup1d5miVjl3JY'
   },
   {
