@@ -170,7 +170,7 @@ var games = [
   },
   {
     id: 'retrobowl',
-    url: 'https://assets.3kh0.net/retro-bowl/index.html',
+    url: 'https://game316009.konggames.com/gamez/0031/6009/live/index.html',
     title: 'Retro Bowl',
     image: 'https://play-lh.googleusercontent.com/WRM5Y1xZmzcCP1YtO5zl6G2g7CU5c5ZfjX4UVrgi1bpNgkfy-wuB-bQx3kkeRfaGYQ'
   },
