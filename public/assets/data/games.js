@@ -89,13 +89,13 @@ var games = [
   {
     id: 'papaburgers',
     title: 'Papa\'s Burgeria',
-    url: 'https://mazahacka2017.github.io/papas-burgeria',
+    url: 'https://www.coolmathgames.com/0-papas-burgeria/play',
     image: 'https://i.flipline.com/gamefiles/papasburgeriatogo/app_upsell_C.jpg'
   },
   {
     id: 'papasicecream',
     title: 'Papa\'s Scooperia',
-    url: 'https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/1ee20621-61bc-4ec8-a8ec-5e839c2e6edc%2Fpapa-s-scooperia.xml',
+    url: 'https://www.coolmathgames.com/0-papas-scooperia/play',
     image: 'https://play-lh.googleusercontent.com/KpLBHo89bWG3jmuYb_KqDD1rZSY4XzXcHiMLZ1PCv83GMwVMcJluuuXrT32oQGCo51A'
   },
   {
