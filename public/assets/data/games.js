@@ -432,8 +432,8 @@ var games = [
   {
     id: 'pixwars2',
     title: 'PixWars 2',
-    url: 'https://rawcdn.githack.com/nightrose-labs/quartz/master/1/c4e5b82d-a26a-437b-8b6e-7598c98cf39b/index.html',
-    image: 'https://rawcdn.githack.com/nightrose-labs/quartz/master/thumb/c4e5b82d-a26a-437b-8b6e-7598c98cf39b.jpg',
+    url: 'https://6b3d117a-f64d-44f0-8e45-53f33acc0ec1.poki-gdn.com/a1e7e6b5-1bba-46b4-b574-7b6b65013748/index.html?country=US&ccpaApplies=0&url_referrer=https%3A%2F%2Fpoki.com%2F&tag=pg-9551b1fb395dc7535d35465bb0dbce1e5a09497f&site_id=3&iso_lang=en&poki_url=https%3A%2F%2Fpoki.com%2Fen%2Fg%2Fpixwars-2&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&categories=3%2C76%2C77%2C93%2C385%2C744%2C929%2C1126%2C1143%2C1194&special_condition=landing&game_id=6b3d117a-f64d-44f0-8e45-53f33acc0ec1&game_version_id=a1e7e6b5-1bba-46b4-b574-7b6b65013748&inspector=0&csp=1',
+    image: 'https://img.poki-cdn.com/cdn-cgi/image/quality=78,width=40,height=40,fit=cover,f=auto/537325f8347e169392524c58419d74d56a9452151e6a5ae5d7ba8920e2a3df63.jpg',
     description: 'An error is displayed during startup. It can be ignored, the game still works.'
   },
   {
