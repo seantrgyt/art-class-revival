@@ -165,7 +165,7 @@ var games = [
   {
     id: 'ducklife4',
     title: 'Duck Life 4',
-    url: 'https://assets.3kh0.net/ducklife4/index.html',
+    url: 'https://www.coolmathgames.com/0-duck-life-4/play',
     image: 'https://play-lh.googleusercontent.com/AUGkRrKMtUCLVE9vCvlfMY9Ny9EBqzx17yejVtEEhvpkw-H6lJlvBHgCMqPJm8HV_tM'
   },
   {
