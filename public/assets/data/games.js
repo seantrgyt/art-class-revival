@@ -217,7 +217,7 @@ var games = [
     id: 'justfall',
     title: 'Just Fall',
     description: 'Just Fall is a game similar to Fall Guys, where you compete in minigames to be the sole winner',
-    url: 'https://assets.3kh0.net/just-fall/index.html',
+    url: 'https://just-fall-online.github.io/file/',
     image: 'https://play-lh.googleusercontent.com/-0rSllZ8as88Jcs3iZ7-JCFyTb3YLB-HjR7bY7P6q_2MAswmDH4h1qNPfFiaZqzkkg'
   },
   {
