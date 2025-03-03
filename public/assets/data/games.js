@@ -64,7 +64,7 @@ var games = [
   {
     id: 'cuttherope',
     title: 'Cut the Rope',
-    url: 'https://www.coolmathgames.com/0-cut-the-rope/play',
+    url: 'https://cut-the-rope-ebx.game-files.crazygames.com/cut-the-rope-ebx/2/index.html',
     image: 'https://play-lh.googleusercontent.com/8FNcAyLXtQB_0Ux2ZO8VZoEoihL6a5VMBNf6V2lydRM24hXLnNUdlEup1d5miVjl3JY'
   },
   {
