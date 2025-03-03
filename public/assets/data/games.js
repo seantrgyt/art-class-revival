@@ -425,7 +425,7 @@ var games = [
     id: 'funnyshooter2',
     title: 'Funny Shooter 2',
     url: 'https://funny-shooter-2.game-files.crazygames.com/unity/unity2020/funny-shooter-2.html?v=1.323',
-    image: 'https://rawcdn.githack.com/nightrose-labs/quartz/master/thumb/6af3cc65-32f9-4f3d-a66c-6c8882a7c5df.jpg',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQllXezliB4G31nMyguAV25NVm00Zrh_7bX5P9Nomnf&usqp=CAE&s',
     description: 'This game has a working rewarded ad bypass, but it will temporarily mute the game. It will unmute at level start/end.'
   },
   {
