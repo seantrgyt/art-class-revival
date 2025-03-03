@@ -432,7 +432,7 @@ var games = [
     id: 'hydrostorm2',
     title: 'Hydro Storm 2',
     url: 'https://c09ef760-ed90-4eac-b2d6-94f903bf5f3e.poki-gdn.com/a9e2f4a7-7511-4bd2-bc66-9bab6c388f0a/index.html?country=US&ccpaApplies=0&url_referrer=https%3A%2F%2Fpoki.com%2F&tag=pg-9551b1fb395dc7535d35465bb0dbce1e5a09497f&site_id=3&iso_lang=en&poki_url=https%3A%2F%2Fpoki.com%2Fen%2Fg%2Fhydro-storm-two&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&categories=1%2C2%2C32%2C77%2C93%2C893%2C1141&special_condition=landing&game_id=c09ef760-ed90-4eac-b2d6-94f903bf5f3e&game_version_id=a9e2f4a7-7511-4bd2-bc66-9bab6c388f0a&inspector=0&csp=1',
-    image: 'https://rawcdn.githack.com/nightrose-labs/quartz/master/thumb/283a1142-4fa3-46c4-8a3f-35ac3a28f072.jpg',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs0XlJRpdsa8bCaOSYw5QKOJYh8eZFQ5h4lx-i9TbNPxRrQC4lW0iP2p8&usqp=CAE&s',
     description: 'This game is resource-heavy. Make sure to adjust quality using the Star button in the main menu.'
   },
   {
