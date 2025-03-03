@@ -302,7 +302,7 @@ var games = [
   {
     id: 'crossyroad',
     title: 'Crossy Road',
-    url: 'https://5dd2e1e3-015f-11ea-ad56-9cb6d0d995f7.poki-gdn.com/3e54dec2-577a-4c73-82cf-290fb51b8083/index.html?country=US&ccpaApplies=0&url_referrer=https%3A%2F%2Fpoki.com%2F&tag=pg-9551b1fb395dc7535d35465bb0dbce1e5a09497f&site_id=3&iso_lang=en&poki_url=https%3A%2F%2Fpoki.com%2Fen%2Fg%2Fcrossy-road&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&categories=9%2C64%2C96%2C103%2C389%2C903%2C929%2C1018%2C1103%2C1109%2C1126%2C1137%2C1143%2C1159%2C1160%2C1193&special_condition=landing&game_id=5dd2e1e3-015f-11ea-ad56-9cb6d0d995f7&game_version_id=3e54dec2-577a-4c73-82cf-290fb51b8083&inspector=0&csp=1',
+    url: 'https://i.gamesgo.net/uploads/game/html5/4072/',
     image: 'https://cdn.jim-nielsen.com/ios/512/crossy-road-endless-arcade-2014-12-02.png'
   },
   {
