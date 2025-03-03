@@ -258,13 +258,6 @@ var games = [
     image: 'https://play-lh.googleusercontent.com/fiH2wSovQkxQ2dQViDAphNBbM0B1dYxTlJqnYwKXeSoQQZbBNkZZuLyMkv4gglb7LH4'
   },
   {
-    id: 'fireandice',
-    title: 'A Dance of Fire and Ice',
-    url: 'https://mochaproxy.com/cdn/a-dance-of-fire-and-ice/index.html',
-    image: 'https://play-lh.googleusercontent.com/L8rCly8hMWuP95PbihDZlSV2u0oGrs0hl2lEXboO7XHX2XalJZ1rjgOsFYXnEDWbpQ',
-    description: 'A Dance of Fire and Ice is a simple one-button rhythm game. Press on every beat of the music to move in a line. Every pattern has its own rhythm to it. It can get difficult. This game is purely based on rhythm, so use your ears more than your sight.'
-  },
-  {
     id: 'escapeprison',
     title: 'Henry Stickmin: Escaping the Prison',
     url: 'https://assets.3kh0.net/escapingtheprison/index.html',
