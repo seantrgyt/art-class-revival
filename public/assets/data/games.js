@@ -17,12 +17,6 @@ var games = [
     image: 'https://assets.3kh0.net/eggycar/eggy-car.png'
   },
   {
-    id: 'rocketleague',
-    title: 'Rocket League',
-    url: 'https://glcdn.githack.com/kaioxdev/legacy-assets/-/raw/main/Rocket-League/index.html',
-    image: 'https://www.softgozar.com/Image/Softwares/Thumbnail/Rocket_League_Anniversary_SoftGozar.com.png'
-  },
-  {
     id: 'cookieclicker',
     title: 'Cookie Clicker',
     description: 'Cookie Clicker is an addictive incremental game where players click to produce cookies, unlock upgrades, and aim to amass an ever-growing mountain of delicious digital treats.',
@@ -356,7 +350,7 @@ var games = [
   {
     id: 'rocketleague',
     title: 'Rocket League',
-    url: 'https://assets.3kh0.net/Rocket-League/index.html',
+    url: 'https://315c81e0-540a-4ec9-8371-e182079a24b6.poki-gdn.com/b1a247b6-8e44-4b89-972d-385a272d8c01/index.html?country=US&ccpaApplies=0&url_referrer=https%3A%2F%2Fpoki.com%2F&tag=pg-9551b1fb395dc7535d35465bb0dbce1e5a09497f&site_id=3&iso_lang=en&poki_url=https%3A%2F%2Fpoki.com%2Fen%2Fg%2Frocket-soccer-derby&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&categories=2%2C27%2C78%2C91%2C869%2C893%2C929%2C1126%2C1140%2C1143%2C1147%2C1193%2C1194%2C1197&special_condition=landing&game_id=315c81e0-540a-4ec9-8371-e182079a24b6&game_version_id=b1a247b6-8e44-4b89-972d-385a272d8c01&inspector=0&csp=1',
     image: 'https://cdn2.iconfinder.com/data/icons/popular-games-1/50/rocketleague_squircle-512.png'
   },
   {
