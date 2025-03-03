@@ -360,12 +360,6 @@ var games = [
     image: 'https://play-lh.googleusercontent.com/oObkhKfUXOY5yzheKe9w1Y1pXZBgdiSksMeNmT0BijoQ8J75maTCIW2TA7-6pA6EMA'
   },
   {
-    id: 'basketballstars',
-    title: 'Basketball Stars',
-    url: 'https://assets.3kh0.net/basketball-stars/index.html',
-    image: 'https://play-lh.googleusercontent.com/EjJV6kCXgX9EIhKEtpYhQF8-BUb5En8sDKpOPiWSQJUxv9_RAfl4tMxyIMkQYgeqC6I=w240-h480-rw'
-  },
-  {
     id: 'amongus',
     title: 'Among Us',
     url: 'https://amongusonline.io/among-us-online.embed',
