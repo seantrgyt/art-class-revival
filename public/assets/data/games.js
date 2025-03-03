@@ -380,7 +380,7 @@ var games = [
   {
     id: 'ovo',
     title: 'OvO',
-    url: 'https://purepro4561.github.io/OvO',
+    url: 'https://www.coolmathgames.com/0-ovo/play',
     image: 'https://play-lh.googleusercontent.com/v7KwGdPjJGjJjRXn46sck4DwDBdKSeRzGN44CjiXUtKV0jjOi51Bt4wcXud0m-SkXg=w240-h480-rw'
   },
   {
