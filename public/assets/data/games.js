@@ -374,7 +374,7 @@ var games = [
   {
     id: 'curveball3d',
     title: 'Curve Ball 3D',
-    url: 'https://slopegame.io/curve-.embed',
+    url: 'https://www.coolmathgames.com/0-curve-ball-3d/play',
     image: 'https://play-lh.googleusercontent.com/sTHCFQc1HlSFK2jHNsQOabTeKBvgtugFxnSa_uNLWX2euDE7ohRnJhgCDapOZ0gvxlQ'
   },
   {
