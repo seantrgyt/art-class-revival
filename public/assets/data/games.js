@@ -121,7 +121,7 @@ var games = [
     id: 'plantsvszombies',
     title: 'Plants Versus Zombies 1.0',
     description: 'Plants Versus Zombies 1.0 is a tower defense video game where players strategically plant a variety of plants to fend off waves of zombie invaders.',
-    url: 'https://glcdn.githack.com/kaioxdev/legacy-assets/-/raw/main/plants%20vs%20zombies%201/plants%20vs%20zombies.html',
+    url: 'https://pvz.ee/iframe.php',
     image: 'http://cm1.narvii.com/6715/5bef9754b89ffbf36e5afb2c4dac9860b9614987_00.jpg'
   },
   {
