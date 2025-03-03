@@ -236,7 +236,7 @@ var games = [
   {
     id: 'minecraft',
     title: 'Minecraft Classic',
-    url: 'https://assets.3kh0.net/minecraft-classic/index.html',
+    url: 'https://classic.minecraft.net',
     image: 'https://cdn.iconscout.com/icon/free/png-256/minecraft-2752120-2284937.png'
   },
   {
