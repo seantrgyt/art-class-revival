@@ -77,7 +77,7 @@ var games = [
     id: 'backrooms',
     title: 'Backrooms',
     description: 'Scary game based on the viral 4Chan post.',
-    url: 'https://assets.3kh0.net/backrooms/index.html',
+    url: 'https://backroomsgame.io/game/backrooms/',
     image: 'https://media.wired.com/photos/627b0c1fb6048c47d506c6c0/1:1/w_679,h_679,c_limit/Backrooms-Games.jpg'
   },
   {
