@@ -107,7 +107,7 @@ var games = [
   {
     id: 'jetpackjoyride',
     title: 'Jetpack Joyride',
-    url: 'https://assets.3kh0.net/jetpack-joyride/index.html',
+    url: 'https://a83061a3-6c94-48d3-b9c5-65b31b279a78.poki-gdn.com/7929912f-9d77-4215-be6c-9916a1095c09/index.html?country=US&ccpaApplies=0&url_referrer=https%3A%2F%2Fpoki.com%2F&tag=pg-9551b1fb395dc7535d35465bb0dbce1e5a09497f&site_id=3&iso_lang=en&poki_url=https%3A%2F%2Fpoki.com%2Fen%2Fg%2Fjetpack-joyride&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&categories=3%2C37%2C77%2C101%2C385%2C1013&special_condition=landing&game_id=a83061a3-6c94-48d3-b9c5-65b31b279a78&game_version_id=7929912f-9d77-4215-be6c-9916a1095c09&inspector=0&csp=1',
     image: 'https://play-lh.googleusercontent.com/Pl2nmu5U9CH3NQqLBTjnokoV325zESrX6KIaHrwSqREEJDWIv1yJpRCXzl9r3oMnEWHC',
   },
   {
