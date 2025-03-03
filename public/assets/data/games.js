@@ -429,8 +429,8 @@ var games = [
   {
     id: 'burninrubber5xs',
     title: 'Burnin\' Rubber 5 XS',
-    url: 'https://rawcdn.githack.com/nightrose-labs/quartz/8ad8d5b123954f4a5d7e35ca84d5aacba0061eec/1/c35dc918-139e-4159-be3d-0d1ef0557e4e/index.html',
-    image: 'https://rawcdn.githack.com/nightrose-labs/quartz/master/thumb/c35dc918-139e-4159-be3d-0d1ef0557e4e.jpg',
+    url: 'https://burnin-rubber-5-xs.game-files.crazygames.com/unity/unity56/burnin-rubber-5-xs.html?v=1.323',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD5QlYWcEtxHe9p40C0nR-bdJJMHujPxyoG5y4XZFYAm9-MVrQNjnkUf0&usqp=CAE&s',
     description: 'This game is resource-heavy. Make sure to adjust quality using the Star button in the main menu.'
   },
   {
