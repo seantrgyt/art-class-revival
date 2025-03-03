@@ -147,7 +147,7 @@ var games = [
   {
     id: 'fnf',
     title: 'Friday Night Funkin',
-    url: 'https://assets.3kh0.net/fridaynightfunkin/index.html',
+    url: 'https://html-classic.itch.zone/html/2876359-1104083/index.html?v=1732313800',
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Boyfriend-2.png/250px-Boyfriend-2.png'
   },
   {
