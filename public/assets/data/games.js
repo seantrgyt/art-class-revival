@@ -51,7 +51,7 @@ var games = [
   {
     id: 'driftboss',
     title: 'Drift Boss',
-    image: 'https://play-lh.googleusercontent.com/fLrnXuD1B0w6FEDJ1UKmv_TYbNyJ4GwzsQu9ltx57MfIj037nig4cVunG3CYmczkjMDA',
+    image: 'https://www.hoodamath.com/mobile/games/drift-boss/game.html',
     url: 'https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://738501629-461082748261058427.preview.editmysite.com/uploads/b/139890129-817510652323129407/files/drbo.xml'
   },
   {
