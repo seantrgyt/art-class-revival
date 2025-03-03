@@ -260,7 +260,7 @@ var games = [
   {
     id: 'escapeprison',
     title: 'Henry Stickmin: Escaping the Prison',
-    url: 'https://assets.3kh0.net/escapingtheprison/index.html',
+    url: 'https://escaping-the-prison.game-files.crazygames.com/ruffle/escaping-the-prison/2/escaping_the_prison.html?v=1.323',
     image: 'https://play-lh.googleusercontent.com/MKW0yzbpA-faDMztP2xkirlXsHwL7QutC_9VyQlbr4VTbPOyCZInL7zYG9EA4XpX4mtM'
   },
   {
