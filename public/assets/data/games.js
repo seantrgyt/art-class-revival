@@ -429,7 +429,7 @@ var games = [
   {
     id: 'burninrubber5xs',
     title: 'Burnin\' Rubber 5 XS',
-    url: 'https://burnin-rubber-5-xs.game-files.crazygames.com/unity/unity56/burnin-rubber-5-xs.html?v=1.323',
+    url: 'https://21494faf-b9e8-4edc-a384-8e4aa7c9bbe6.poki-gdn.com/dfa3f948-112b-4219-a07c-cb816c8d5ec3/index.html?country=US&ccpaApplies=0&url_referrer=https%3A%2F%2Fpoki.com%2F&tag=pg-9551b1fb395dc7535d35465bb0dbce1e5a09497f&site_id=3&iso_lang=en&poki_url=https%3A%2F%2Fpoki.com%2Fen%2Fg%2Fburnin-rubber-5-xs&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&categories=1%2C78%2C765%2C929%2C1178&special_condition=landing&game_id=21494faf-b9e8-4edc-a384-8e4aa7c9bbe6&game_version_id=dfa3f948-112b-4219-a07c-cb816c8d5ec3&inspector=0&csp=1',
     image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD5QlYWcEtxHe9p40C0nR-bdJJMHujPxyoG5y4XZFYAm9-MVrQNjnkUf0&usqp=CAE&s',
     description: 'This game is resource-heavy. Make sure to adjust quality using the Star button in the main menu.'
   },
