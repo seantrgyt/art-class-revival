@@ -386,7 +386,7 @@ var games = [
   {
     id: 'btd4',
     title: 'Bloons TD 4',
-    url: 'https://assets.3kh0.net/btd4/index.html',
+    url: 'https://bloons-tower-defense-4.game-files.crazygames.com/ruffle/bloons-tower-defense-4/2/Bloons%20Tower%20Defense%204.html?v=1.323',
     image: 'https://assets-prd.ignimgs.com/2022/08/16/bloons-td4-button-1660612386362.jpg'
   },
   {
