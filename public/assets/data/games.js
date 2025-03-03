@@ -134,7 +134,7 @@ var games = [
     id: 'motox3m',
     title: 'MotoX3M',
     //url: 'https://assets.3kh0.net/motox3m/index.html',
-    url: 'https://art-class.github.io/assets/motox3m',
+    url: 'https://www.coolmathgames.com/0-moto-x3m/play',
     image: 'https://play-lh.googleusercontent.com/AbQMuT4ncBfWDqNF-4ubmfaRag59nrW3fJARDsHK51_PENScmWCnMFeQX81wfPlfGBo'
   },
   {
