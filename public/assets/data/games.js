@@ -392,7 +392,7 @@ var games = [
   {
     id: 'dogeminer',
     title: "Doge Miner",
-    url: 'https://assets.3kh0.net/DogeMiner/index.html',
+    url: 'https://dogeminer.se/',
     image: 'https://play-lh.googleusercontent.com/7diC1RZgf6Z5XCspiwJMYD3vQz5TmjFElLw5qnPJZjcjNXgfhepPJzmIBijgraJRd8uv'
   },
   {
