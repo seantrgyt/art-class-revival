@@ -51,8 +51,8 @@ var games = [
   {
     id: 'driftboss',
     title: 'Drift Boss',
-    image: 'https://www.hoodamath.com/mobile/games/drift-boss/game.html',
-    url: 'https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://738501629-461082748261058427.preview.editmysite.com/uploads/b/139890129-817510652323129407/files/drbo.xml'
+    image: 'https://img.poki-cdn.com/cdn-cgi/image/quality=78,width=40,height=40,fit=cover,f=auto/baf55f009fd63dd63c760a5dcfe79615.png',
+    url: 'https://www.hoodamath.com/mobile/games/drift-boss/game.html'
   },
   {
     id: 'osu',
