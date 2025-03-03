@@ -260,7 +260,7 @@ var games = [
   {
     id: 'fireandice',
     title: 'A Dance of Fire and Ice',
-    url: 'https://html-classic.itch.zone/html/1175401/index.html?v=1574336293',
+    url: 'https://static.playunblocked.com/2019/10/a-dance-of-fire-and-ice/',
     image: 'https://play-lh.googleusercontent.com/L8rCly8hMWuP95PbihDZlSV2u0oGrs0hl2lEXboO7XHX2XalJZ1rjgOsFYXnEDWbpQ',
     description: 'A Dance of Fire and Ice is a simple one-button rhythm game. Press on every beat of the music to move in a line. Every pattern has its own rhythm to it. It can get difficult. This game is purely based on rhythm, so use your ears more than your sight.'
   },
