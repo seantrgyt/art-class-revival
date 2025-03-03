@@ -13,7 +13,7 @@ var games = [
   {
     id: 'eggycar',
     title: 'Eggy Car',
-    url: 'https://assets.3kh0.net/eggycar/index.html',
+    url: 'https://webglmath.github.io/eggy-car/',
     image: 'https://assets.3kh0.net/eggycar/eggy-car.png'
   },
   {
