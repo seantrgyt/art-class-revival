@@ -470,7 +470,7 @@ var games = [
     id: 'johnnyupgrade',
     title: 'Johnny Upgrade',
     url: 'https://www.coolmathgames.com/0-johnny-upgrade/play',
-    image: 'https://lh5.googleusercontent.com/K7sBfR_F4vAkFU9TVSx-hEKnE4b-dhautdjFBoCbXU_Qbq1SAsYXxjCKBXkFeOs8ju2kSQzR7gdyawMdWULaZ44=w1280'
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyZiOLpwkFMMTL4ylp_7un0RIKqp9nnjK6Enlj_X9AmMEuKTdLK6WFCKg&usqp=CAE&s'
   },
   {
     id: 'holeio',
