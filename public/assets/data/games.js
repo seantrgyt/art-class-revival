@@ -58,7 +58,7 @@ var games = [
     id: 'osu',
     title: 'osu!',
     description: 'A web version of osu!',
-    url: 'https://web-osu.github.io/',
+    url: 'webosu.online',
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Osu%21_Logo_2016.svg/1200px-Osu%21_Logo_2016.svg.png',
   },
   {
