@@ -300,12 +300,6 @@ var games = [
     image: 'https://play-lh.googleusercontent.com/-dE43Bqni_bUnq0L-piPxiJG4YiCotk5khMdrQaQBJrXJ3vSgjNeIaKyA34rBvKQSyOy'
   },
   {
-    id: 'crossyroad',
-    title: 'Crossy Road',
-    url: 'https://i.gamesgo.net/uploads/game/html5/4072/',
-    image: 'https://cdn.jim-nielsen.com/ios/512/crossy-road-endless-arcade-2014-12-02.png'
-  },
-  {
     id: 'subwaysurfers',
     title: 'Subway Surfers',
     url: 'https://assets.3kh0.net/subway-surfers/index.html',
