@@ -503,12 +503,6 @@ var games = [
     image: 'https://play-lh.googleusercontent.com/EiElcSrd6-o-19roiswSx0AZPzsq6qF3hUGHsSWDl5UVtj7G23DHkneM8ucwqyOmEg'
   },
   {
-    id: 'digtochina',
-    title: 'Dig to China',
-    url: 'https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/1ee20621-61bc-4ec8-a8ec-5e839c2e6edc%2Fdig-to-china.xml',
-    image: 'https://play-lh.googleusercontent.com/R1o8_AuZ53wC5Q60ZKoGBdIXjm4v7k99uGW1Lb8NFk58MeAO_e-IqcOxdPnjOK90'
-  },
-  {
     id: 'helixjump',
     title: 'Helix Jump',
     url: 'https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/gertdoro/Toolkit@147a37a734f3e4f155e48dbda25000afdc2970ba/Apps/Helix.xml',
