@@ -153,7 +153,7 @@ var games = [
   {
     id: 'paperio2',
     title: 'Paper.io 2',
-    url: 'https://assets.3kh0.net/paperio2/index.html',
+    url: 'https://paperio.site/',
     image: 'https://play-lh.googleusercontent.com/KxcjUrs8S75iOPnKBR2b-s7eGtqbREwLgzttVxaM9Znl5ZxsDCl6qEZHny4rBkMeYA=w240-h480-rw'
   },
   {
