@@ -290,7 +290,7 @@ var games = [
   {
     id: 'baldisbasics',
     title: 'Baldi\'s Basics',
-    url: 'https://assets.3kh0.net/baldis-basics/index.html',
+    url: 'https://baldis-basics-online.github.io/file/',
     image: 'https://play-lh.googleusercontent.com/EPV1TB4So1lB0DGrdCVExDpNU8ML67nd8OqBeoOIM-s6sDicxmDdPvCXD6n7LKevFl0'
   },
   {
