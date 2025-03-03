@@ -254,7 +254,7 @@ var games = [
   {
     id: 'awesometanks2',
     title: 'Awesome Tanks 2',
-    url: 'https://assets.3kh0.net/awesometanks2/index.html',
+    url: 'https://www.coolmathgames.com/0-awesome-tanks-2/play',
     image: 'https://play-lh.googleusercontent.com/fiH2wSovQkxQ2dQViDAphNBbM0B1dYxTlJqnYwKXeSoQQZbBNkZZuLyMkv4gglb7LH4'
   },
   {
