@@ -135,7 +135,7 @@ var games = [
     id: 'thefinalearth',
     title: 'The Final Earth',
     description: 'Earth has been destroyed. It\'s a good thing you teleported to a new planet, also known as The Final Earth. Gather resources and build a colony',
-    url: 'https://assets.3kh0.net/the-final-earth/index.html',
+    url: 'https://www.coolmathgames.com/0-the-final-earth/play',
     image: 'https://img.itch.zone/aW1nLzIyMTU1NDAucG5n/original/6vGlZe.png'
   },
   {
