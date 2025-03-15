@@ -296,7 +296,7 @@ var games = [
   {
     id: 'subwaysurfers',
     title: 'Subway Surfers',
-    url: 'https://assets.3kh0.net/subway-surfers/index.html',
+    url: 'https://5dd312fa-015f-11ea-ad56-9cb6d0d995f7.poki-gdn.com/aa6ed2f2-4a7b-40b7-8b1e-33b5c48842d5/index.html?country=US&ccpaApplies=0&url_referrer=https%3A%2F%2Fpoki.com%2F&tag=pg-282826d9cd3118213cc7e256baa00cc0d9768cd8&site_id=3&iso_lang=en&poki_url=https%3A%2F%2Fpoki.com%2Fen%2Fg%2Fsubway-surfers&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&categories=3%2C4%2C6%2C9%2C86%2C88%2C93%2C96%2C103%2C228%2C903%2C929%2C1103%2C1126%2C1137%2C1140%2C1143%2C1147%2C1156%2C1159%2C1160%2C1163%2C1177%2C1185%2C1190%2C1193&special_condition=landing&game_id=5dd312fa-015f-11ea-ad56-9cb6d0d995f7&game_version_id=aa6ed2f2-4a7b-40b7-8b1e-33b5c48842d5&inspector=0&csp=1',
     image: 'https://cdnb.artstation.com/p/assets/images/images/040/799/939/large/celine-j-1-74-shanghai-icon-1024-x.jpg?1629908071'
   },
   {
