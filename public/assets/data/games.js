@@ -177,7 +177,7 @@ var games = [
   {
     id: 'templerun2',
     title: 'Temple Run 2',
-    url: 'https://assets.3kh0.net/temple-run-2/index.html',
+    url: 'https://84938be4-42ce-42a8-9968-2f5f2a7618d8.poki-gdn.com/f2e6056e-ac6f-4d61-bec9-5618e79105e7/index.html?country=US&ccpaApplies=0&url_referrer=https%3A%2F%2Fpoki.com%2F&tag=pg-282826d9cd3118213cc7e256baa00cc0d9768cd8&site_id=3&iso_lang=en&poki_url=https%3A%2F%2Fpoki.com%2Fen%2Fg%2Ftemple-run-2&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&categories=3%2C4%2C6%2C9%2C93%2C903%2C929%2C1103%2C1126%2C1137%2C1140%2C1143%2C1147%2C1163%2C1190&special_condition=landing&game_id=84938be4-42ce-42a8-9968-2f5f2a7618d8&game_version_id=f2e6056e-ac6f-4d61-bec9-5618e79105e7&inspector=0&csp=1',
     image: 'https://play-lh.googleusercontent.com/go4XqS4mYs-G2tZymiVLF4wJYXIi5QrvwixNRzssk4G_vRBHrAdg4E1ddNwy9c2cZA'
   },
   {
