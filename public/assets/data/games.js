@@ -445,7 +445,7 @@ var games = [
   {
     id: 'thefinalearth2',
     title: 'The Final Earth 2',
-    url: 'https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://529473016-184630684593625815.preview.editmysite.com/uploads/b/139890129-811652923688457694/files/tfe2.xml&',
+    url: 'https://www.coolmathgames.com/0-the-final-earth-2/play',
     image: 'https://play-lh.googleusercontent.com/oAzUAWZS6R4iPUIWF-DxGgx0Jr4ssCO2BjVA3vmA8033Y9j6bp9FGMz9JkcS9TPrp4Q'
   },
   {
