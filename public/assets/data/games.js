@@ -242,7 +242,7 @@ var games = [
   {
     id: 'tunnelrush',
     title: 'Tunnel Rush',
-    url: 'https://assets.3kh0.net/tunnel-rush/index.html',
+    url: 'https://tunnelrushgame.io/game/tunnel-rush/',
     image: 'https://images.hellokids.com/_uploads/_tiny_galerie/20180415/vign-tunnel-rush-hk-w8v_u89.jpg',
   },
   {
