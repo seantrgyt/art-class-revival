@@ -278,7 +278,7 @@ var games = [
   {
     id: 'slope',
     title: 'Slope',
-    url: 'https://mathadventure1.github.io/slope/slope/index.html',
+    url: 'https://mochaproxy.com/cdn/slope/index.html',
     image: 'https://play-lh.googleusercontent.com/uJn2i9h7KxYQarC_c3K4qH6o7gLtflFnhD_dN14MNkzHJ1NeNFzCL69jpB5mT0vCoQs'
   },
   {
