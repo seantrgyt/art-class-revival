@@ -183,7 +183,7 @@ var games = [
   {
     id: 'stickmanhook',
     title: 'Stickman Hook',
-    url: 'https://assets.3kh0.net/stickman-hook/index.html',
+    url: 'https://games.poki.com/458768/stickmanhook?tag=pg-282826d9cd3118213cc7e256baa00cc0d9768cd8&site_id=3&iso_lang=en&country=US&poki_url=https://poki.com/en/g/stickman-hook&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&categories=1,3,4,9,37,76,927,929,1103,1120,1126,1137,1140,1141,1143,1159,1160,1190,1193,1194&special_condition=landing',
     image: 'https://play-lh.googleusercontent.com/yXqBI1Vb1b-xjwmXLE2T7FQbgHIxfvjze1b6jO2aLHfy8Y8ta7NFSEVqZoPHtM2Ajyrl'
   },
   {
