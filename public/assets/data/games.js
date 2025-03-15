@@ -224,7 +224,7 @@ var games = [
   {
     id: 'snowball',
     title: 'snowball.io',
-    url: 'https://assets.3kh0.net/snowbattle/index.html',
+    url: 'https://snowballio.gitlab.io/file/',
     image: 'https://play-lh.googleusercontent.com/X8FEOENa_t5mlRllBh2RRLc6sMnPIq56Wxa2ndValDOmwzIRhAv7MG6fT97TLQ2DK48'
   },
   {
