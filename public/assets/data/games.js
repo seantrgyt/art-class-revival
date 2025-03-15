@@ -77,7 +77,7 @@ var games = [
   {
     id: 'youarebezos',
     title: 'You are Bezos',
-    url: 'https://assets.3kh0.net/you-are-bezos/index.html',
+    url: 'https://html-classic.itch.zone/html/7309245/index.html?v=1732313662',
     image: 'https://img.itch.zone/aW1nLzE1NzI2NjIucG5n/original/Equhiy.png'
   },
   {
