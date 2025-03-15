@@ -217,7 +217,7 @@ var games = [
   {
     id: 'sm64',
     title: 'Super Mario 64',
-    url: 'https://assets.3kh0.net/sm64/index.html',
+    url: 'https://probablykam.github.io/Mario64webgl/',
     image: 'https://assets1.ignimgs.com/2019/05/31/mario-64---button-1559263987447.jpg',
     description: 'Controls: <br>Movement: Arrow Keys <br>A: X <br>B: C <br>R: Q <br>Z: Space <br>Start: Enter <br>C-stick: WASD<br><br>You might need to go into fullscreen for the keybinds to register'
   },
