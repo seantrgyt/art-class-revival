@@ -95,7 +95,7 @@ var games = [
   {
     id: 'ultimatechess',
     title: 'Ultimate Chess',
-    url: 'https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/1ee20621-61bc-4ec8-a8ec-5e839c2e6edc%2Fultimate-chess.xml',
+    url: 'https://uploads.ungrounded.net/ruffle_wrapper/ruffleembed.html?v=1.0.67&browsermode=default&props=%7B%22ruffle%22%3A%22%2Fruffle_wrapper%2Flib%2Fruffle.js%3F1741666656%22%2C%22public_path%22%3A%22%2Fruffle_wrapper%2Flib%2F%22%2C%22swf%22%3A%22https%3A%2F%2Fuploads.ungrounded.net%2F535000%2F535466_ultimatechess.swf%3F1273334673%22%2C%22vars%22%3A%7B%22NewgroundsAPI_PublisherID%22%3A1%2C%22NewgroundsAPI_SandboxID%22%3A%2267d5ecbc9e434%22%2C%22NewgroundsAPI_SessionID%22%3A%22%22%2C%22NewgroundsAPI_UserName%22%3A%22%26lt%3Bdeleted%26gt%3B%22%2C%22NewgroundsAPI_UserID%22%3A0%2C%22ng_username%22%3A%22%26lt%3Bdeleted%26gt%3B%22%7D%2C%22width%22%3A420%2C%22height%22%3A526%2C%22icon%22%3A%22https%3A%2F%2Fpicon.ngfiles.com%2F535000%2Fflash_535466_card.webp%3Ff1726252886%22%2C%22warnOnUnsupportedContent%22%3Afalse%7D',
     image: 'https://img.kbhgames.com/2010/05/Ultimate-Chess.jpg'
   },
   {
