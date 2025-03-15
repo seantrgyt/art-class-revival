@@ -439,7 +439,7 @@ var games = [
   {
     id: 'vex8',
     title: 'Vex 8',
-    url: 'https://rawcdn.githack.com/nightrose-labs/quartz/8ad8d5b123954f4a5d7e35ca84d5aacba0061eec/2/6dcc5fd9-a43a-4e13-9b6f-456a416e1059/index.html',
+    url: 'https://html5.gamedistribution.com/rvvASMiM/949009d40a2846f89f887de2285d6c28/index.html?gd_zone_config=eyJwYXJlbnRVUkwiOiJodHRwczovL3ZleDguaW8vIiwicGFyZW50RG9tYWluIjoidmV4OC5pbyIsInRvcERvbWFpbiI6InZleDguaW8iLCJoYXNJbXByZXNzaW9uIjp0cnVlLCJsb2FkZXJFbmFibGVkIjp0cnVlLCJob3N0IjoiaHRtbDUuZ2FtZWRpc3RyaWJ1dGlvbi5jb20iLCJ2ZXJzaW9uIjoiMS41LjE3In0%253D',
     image: 'https://rawcdn.githack.com/nightrose-labs/quartz/master/thumb/6dcc5fd9-a43a-4e13-9b6f-456a416e1059.jpg'
   },
   {
