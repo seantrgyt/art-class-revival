@@ -236,8 +236,8 @@ var games = [
   {
     id: 'smashkarts',
     title: 'Smash Karts',
-    url: 'https://assets.3kh0.net/smashkarts/index.html',
-    image: 'https://geometry-dash.co/upload/imgs/smash-karts-logo.png'
+    url: 'https://smashkarts.io',
+    image: 'https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRn7_ygYwymUnzXFeLnADy6ZpqL5-jkomhdbm57KmvQu7-CahDMp80u3d5WaX5uvyhlBggEQdfUuoK6uZ0mslG4cb_EvW2NYxx_lVaPww'
   },
   {
     id: 'tunnelrush',
