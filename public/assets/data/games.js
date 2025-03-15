@@ -32,7 +32,7 @@ var games = [
   {
     id: 'thereisnogame',
     title: 'There Is No Game',
-    url: 'https://assets.3kh0.net/there-is-no-game/index.html',
+    url: 'https://www.coolmathgames.com/0-there-is-no-game/play',
     image: 'https://play-lh.googleusercontent.com/a6DfrYUL6viV0LAZFplqqA44gE0LHE0PyDnKHgdlydiUvccwzSBWrmRQSx5cjdL74Us=w240-h480-rw'
   },
   {
