@@ -153,7 +153,7 @@ var games = [
   {
     id: 'impossiblequiz',
     title: 'The Impossible Quiz',
-    url: 'https://proudparrot2.github.io/msg-archive/g_mes/impossiblequiz1/impossiblequiz1/index.html',
+    url: 'https://gswitch3.github.io/g8/the-impossible-quiz/',
     image: 'https://ih1.redbubble.net/image.489460698.9522/st,small,507x507-pad,600x600,f8f8f8.jpg'
   },
   {
