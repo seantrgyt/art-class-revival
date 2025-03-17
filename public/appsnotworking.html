@@ -1,1 +1,54 @@
-
+<!DOCTYPE html>
+<html>
+  <head>
+    <link
+      rel="shortcut icon"
+      href="./assets/images/icon.png"
+      type="image/png"
+    />
+    <title>Art Class</title>
+    <link rel="stylesheet" href="./css/master.css" />
+    <script src="/uv/uv.bundle.js" charset="UTF-8"></script>
+    <script src="/uv/uv.config.js"></script>
+    <script src="./js/preload.js"></script>
+    
+    <script id="aclib" type="text/javascript" src="//acscdn.com/script/aclib.js"></script>
+  </head>
+  <body theme="main">
+    <nav>
+      <div class="logo">
+        <img src="./assets/images/icon.png" alt="Logo" draggable="false" />
+        <h1>Art Class</h1>
+      </div>
+      <p id="time"></p>
+      <div class="navitems">
+        <div class="navitem"><a href="/">Home</a></div>
+        <div class="navitem"><a href="/gs.html">Games</a></div>
+        <div class="navitem"><a href="/apps.html">Apps</a></div>
+        <div class="navitem"><a href="/emulator.html">Emulator</a></div>
+        <div class="navitem"><a href="/search.html">Search</a></div>
+      </div>
+    </nav>
+    <div class="center-container">
+      <p id="splash">
+        Are your apps not working? We don't know why, but for 
+        some reason, going to our other vercel links fixes it.
+        Click on these buttons below to go the links.
+      </p>
+      <br />
+      <button onclick="window.location.href='https://art-class-revival-seans-projects-3ad1a49a.vercel.app/'" class="button play">
+        Link 1
+      </button>
+      <button onclick="window.location.href='https://art-class-revival-git-main-seans-projects-3ad1a49a.vercel.app/'" class="button play">
+        Link 2
+      </button>
+    </div>
+    <script src="./js/index.js"></script>
+    
+    <script type="text/javascript">
+        aclib.runAutoTag({
+            zoneId: '6hmeyutild',
+        });
+    </script>
+  </body>
+</html>
