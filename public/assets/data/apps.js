@@ -116,28 +116,28 @@ var apps = [
       'url': 'https://cattn.github.io/gba',
       "image": "https://cattn.github.io/gba/pwa/apple-icon-180.png",
       "description": "A Game Boy Advance retro emulator with over 3000 games, and other consoles as well"
-    }    
+    },
     {
       'id': 'crazygames',
       'title': 'Crazy Games',
       'url': 'https://crazygames.com',
       "image": "https://docs.crazygames.com/img/logo.png",
       "description": "No games you want to play on here? You can still access Crazy Games from here if it is blocked for you."
-    }
+    },
     {
       'id': 'poki',
       'title': 'Poki',
       'url': 'https://poki.com',
       "image": "https://play-lh.googleusercontent.com/q4fiVQZ6HV0A9CSL8mE-v5zXJvVhGGaOAroL9OdjDz1yJsyyULGlqhlCvdnQOzRSXxs",
       "description": "No games you want to play on here? You can still access Poki from here if it is blocked for you."
-    }
+    },
     {
       'id': 'coolmathgames',
       'title': 'Coolmath Games',
       'url': 'https://coolmathgames.com',
       "image": "hhttps://yt3.googleusercontent.com/ytc/AIdro_m4Gp4KwjbYsP3C0zHYPRgNLdUkUIeRFTFSx7LsIxae_Q=s900-c-k-c0x00ffffff-no-rj",
       "description": "No games you want to play on here? You can still access Coolmath Games from here if it is blocked for you."
-    }
+    }    
   ]
   
   var customapps = JSON.parse(localStorage.getItem("customapps"))
