@@ -130,13 +130,6 @@ var apps = [
       'url': 'https://poki.com',
       "image": "https://play-lh.googleusercontent.com/q4fiVQZ6HV0A9CSL8mE-v5zXJvVhGGaOAroL9OdjDz1yJsyyULGlqhlCvdnQOzRSXxs",
       "description": "No games you want to play on here? You can still access Poki from here if it is blocked for you."
-    },
-    {
-      'id': 'coolmathgames',
-      'title': 'Coolmath Games',
-      'url': 'https://coolmathgames.com',
-      "image": "hhttps://yt3.googleusercontent.com/ytc/AIdro_m4Gp4KwjbYsP3C0zHYPRgNLdUkUIeRFTFSx7LsIxae_Q=s900-c-k-c0x00ffffff-no-rj",
-      "description": "No games you want to play on here? You can still access Coolmath Games from here if it is blocked for you."
     }    
   ]
   
