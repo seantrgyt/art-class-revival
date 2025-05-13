@@ -497,7 +497,6 @@ var games = [
     image: 'https://img.itch.zone/aW1nLzIwNjg0MzI4LnBuZw==/original/vEMX1y.png'
   }
 ]
-]
 games.sort(function (a, b) {
   return a.title.localeCompare(b.title);
 });
