@@ -489,7 +489,14 @@ var games = [
     title: 'Raccoon Retail',
     url: 'https://www.coolmathgames.com/0-raccoon-retail/play',
     image: 'https://play-lh.googleusercontent.com/zI8P-Gej0l8WK9_rRrVJuHQfZqA97ncD1RCN8qdLbmwl0uxPI8o5JLBsnJz5hxLKTYE'
+  },
+  {
+    id: 'crazycattle',
+    title: 'Crazy Cattle 3D',
+    url: 'https://crazy-cattle3d.org/game/crazycattle3d/v11/',
+    image: 'https://img.itch.zone/aW1nLzIwNjg0MzI4LnBuZw==/original/vEMX1y.png'
   }
+]
 ]
 games.sort(function (a, b) {
   return a.title.localeCompare(b.title);
