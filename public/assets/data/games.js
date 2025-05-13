@@ -493,7 +493,7 @@ var games = [
   {
     id: 'crazycattle',
     title: 'Crazy Cattle 3D',
-    url: 'https://crazy-cattle3d.org/game/crazycattle3d/v11/',
+    url: 'https://crazycattle3d.io/game/crazycattle3d/v11/',
     image: 'https://img.itch.zone/aW1nLzIwNjg0MzI4LnBuZw==/original/vEMX1y.png'
   }
 ]
