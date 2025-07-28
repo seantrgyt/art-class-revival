@@ -7,13 +7,13 @@ var games = [
   {
     id: 'idlebreakout',
     title: 'Idle Breakout',
-    url: 'https://www.coolmathgames.com/0-idle-breakout/play',
+    url: 'http://3kh0.seantrg.xyz:29089/idle-breakout/',
     image: 'https://play-lh.googleusercontent.com/e5jzYTn7Mjh9Ghn-DFpVedkOlRfSOyCS2AFgXdTrADIuuUbjx6vP6r_YOM2j5m7uLQ'
   },
   {
     id: 'eggycar',
     title: 'Eggy Car',
-    url: 'https://webglmath.github.io/eggy-car/',
+    url: 'http://3kh0.seantrg.xyz:29089/eggycar/',
     image: 'https://assets.3kh0.net/eggycar/eggy-car.png'
   },
   {
@@ -39,7 +39,7 @@ var games = [
     id: 'fbwg',
     title: 'Fireboy and Watergirl',
     description: 'A 2 player game where you have to work together using logic and teamwork to get to the finish line.',
-    url: 'https://educationgg-23704.web.app/games/FBWG4-main/index.html',
+    url: 'http://3kh0.seantrg.xyz:29089/fireboywatergirlforesttemple/',
     image: 'https://play-lh.googleusercontent.com/5-YcjiTyMrPJEZe078dHMxnCxcg2A_8NWJZQieRvn2Gkf8JOuHZEbTmFyQ9gn5p2lnU'
   },
   {
@@ -71,7 +71,7 @@ var games = [
     id: 'backrooms',
     title: 'Backrooms',
     description: 'Scary game based on the viral 4Chan post.',
-    url: 'https://backroomsgame.io/game/backrooms/',
+    url: 'http://3kh0.seantrg.xyz:29089/backrooms/',
     image: 'https://media.wired.com/photos/627b0c1fb6048c47d506c6c0/1:1/w_679,h_679,c_limit/Backrooms-Games.jpg'
   },
   {
@@ -83,7 +83,7 @@ var games = [
   {
     id: 'papaburgers',
     title: 'Papa\'s Burgeria',
-    url: 'https://www.coolmathgames.com/0-papas-burgeria/play',
+    url: 'http://3kh0.seantrg.xyz:29089/papasburgeria/',
     image: 'https://i.flipline.com/gamefiles/papasburgeriatogo/app_upsell_C.jpg'
   },
   {
@@ -101,7 +101,7 @@ var games = [
   {
     id: 'jetpackjoyride',
     title: 'Jetpack Joyride',
-    url: 'https://a83061a3-6c94-48d3-b9c5-65b31b279a78.poki-gdn.com/7929912f-9d77-4215-be6c-9916a1095c09/index.html?country=US&ccpaApplies=0&url_referrer=https%3A%2F%2Fpoki.com%2F&tag=pg-9551b1fb395dc7535d35465bb0dbce1e5a09497f&site_id=3&iso_lang=en&poki_url=https%3A%2F%2Fpoki.com%2Fen%2Fg%2Fjetpack-joyride&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&categories=3%2C37%2C77%2C101%2C385%2C1013&special_condition=landing&game_id=a83061a3-6c94-48d3-b9c5-65b31b279a78&game_version_id=7929912f-9d77-4215-be6c-9916a1095c09&inspector=0&csp=1',
+    url: 'http://3kh0.seantrg.xyz:29089/jetpack-joyride/',
     image: 'https://play-lh.googleusercontent.com/Pl2nmu5U9CH3NQqLBTjnokoV325zESrX6KIaHrwSqREEJDWIv1yJpRCXzl9r3oMnEWHC',
   },
   {
@@ -115,20 +115,20 @@ var games = [
     id: 'plantsvszombies',
     title: 'Plants Versus Zombies 1.0',
     description: 'Plants Versus Zombies 1.0 is a tower defense video game where players strategically plant a variety of plants to fend off waves of zombie invaders.',
-    url: 'https://pvz.ee/iframe.php',
+    url: 'http://3kh0.seantrg.xyz:29089/plants%20vs%20zombies%201/plants%20vs%20zombies.html',
     image: 'http://cm1.narvii.com/6715/5bef9754b89ffbf36e5afb2c4dac9860b9614987_00.jpg'
   },
   {
     id: 'happywheels',
     title: 'Happy Wheels',
-    url: 'https://totaljerkface.com/happy-wheels-js/index.tjf',
+    url: 'http://3kh0.seantrg.xyz:29089/happywheels/',
     image: 'https://play-lh.googleusercontent.com/SV8RsV5udSeeONjatT5SwleP6lzV6PjtNPs2VvyohJXWSG9fFLNOfslDEHbpDN337wQ'
   },
   {
     id: 'motox3m',
     title: 'MotoX3M',
     //url: 'https://assets.3kh0.net/motox3m/index.html',
-    url: 'https://www.coolmathgames.com/0-moto-x3m/play',
+    url: 'http://3kh0.seantrg.xyz:29089/motox3m/',
     image: 'https://play-lh.googleusercontent.com/AbQMuT4ncBfWDqNF-4ubmfaRag59nrW3fJARDsHK51_PENScmWCnMFeQX81wfPlfGBo'
   },
   {
@@ -147,24 +147,24 @@ var games = [
   {
     id: 'paperio2',
     title: 'Paper.io 2',
-    url: 'https://paperio.site/',
+    url: 'http://3kh0.seantrg.xyz:29089/paperio2/',
     image: 'https://play-lh.googleusercontent.com/KxcjUrs8S75iOPnKBR2b-s7eGtqbREwLgzttVxaM9Znl5ZxsDCl6qEZHny4rBkMeYA=w240-h480-rw'
   },
   {
     id: 'impossiblequiz',
     title: 'The Impossible Quiz',
-    url: 'https://gswitch3.github.io/g8/the-impossible-quiz/',
+    url: 'http://3kh0.seantrg.xyz:29089/impossiblequiz/',
     image: 'https://ih1.redbubble.net/image.489460698.9522/st,small,507x507-pad,600x600,f8f8f8.jpg'
   },
   {
     id: 'ducklife4',
     title: 'Duck Life 4',
-    url: 'https://www.coolmathgames.com/0-duck-life-4/play',
+    url: 'http://3kh0.seantrg.xyz:29089/ducklife4/',
     image: 'https://play-lh.googleusercontent.com/AUGkRrKMtUCLVE9vCvlfMY9Ny9EBqzx17yejVtEEhvpkw-H6lJlvBHgCMqPJm8HV_tM'
   },
   {
     id: 'retrobowl',
-    url: 'https://game316009.konggames.com/gamez/0031/6009/live/index.html',
+    url: 'http://3kh0.seantrg.xyz:29089/retro-bowl/',
     title: 'Retro Bowl',
     image: 'https://play-lh.googleusercontent.com/WRM5Y1xZmzcCP1YtO5zl6G2g7CU5c5ZfjX4UVrgi1bpNgkfy-wuB-bQx3kkeRfaGYQ'
   },
@@ -183,7 +183,7 @@ var games = [
   {
     id: 'stickmanhook',
     title: 'Stickman Hook',
-    url: 'https://games.poki.com/458768/stickmanhook?tag=pg-282826d9cd3118213cc7e256baa00cc0d9768cd8&site_id=3&iso_lang=en&country=US&poki_url=https://poki.com/en/g/stickman-hook&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&categories=1,3,4,9,37,76,927,929,1103,1120,1126,1137,1140,1141,1143,1159,1160,1190,1193,1194&special_condition=landing',
+    url: 'http://3kh0.seantrg.xyz:29089/stickman-hook/',
     image: 'https://play-lh.googleusercontent.com/yXqBI1Vb1b-xjwmXLE2T7FQbgHIxfvjze1b6jO2aLHfy8Y8ta7NFSEVqZoPHtM2Ajyrl'
   },
   {
@@ -211,13 +211,13 @@ var games = [
     id: 'justfall',
     title: 'Just Fall',
     description: 'Just Fall is a game similar to Fall Guys, where you compete in minigames to be the sole winner',
-    url: 'https://just-fall-online.github.io/file/',
+    url: 'http://3kh0.seantrg.xyz:29089/just-fall/',
     image: 'https://play-lh.googleusercontent.com/-0rSllZ8as88Jcs3iZ7-JCFyTb3YLB-HjR7bY7P6q_2MAswmDH4h1qNPfFiaZqzkkg'
   },
   {
     id: 'sm64',
     title: 'Super Mario 64',
-    url: 'https://probablykam.github.io/Mario64webgl/',
+    url: 'http://3kh0.seantrg.xyz:29089/sm64/',
     image: 'https://assets1.ignimgs.com/2019/05/31/mario-64---button-1559263987447.jpg',
     description: 'Controls: <br>Movement: Arrow Keys <br>A: X <br>B: C <br>R: Q <br>Z: Space <br>Start: Enter <br>C-stick: WASD<br><br>You might need to go into fullscreen for the keybinds to register'
   },
@@ -248,7 +248,7 @@ var games = [
   {
     id: 'awesometanks2',
     title: 'Awesome Tanks 2',
-    url: 'https://www.coolmathgames.com/0-awesome-tanks-2/play',
+    url: 'http://3kh0.seantrg.xyz:29089/awesometanks2/',
     image: 'https://play-lh.googleusercontent.com/fiH2wSovQkxQ2dQViDAphNBbM0B1dYxTlJqnYwKXeSoQQZbBNkZZuLyMkv4gglb7LH4'
   },
   {
@@ -260,7 +260,7 @@ var games = [
   {
     id: 'fleeingthecomplex',
     title: 'Henry Stickmin: Fleeing the Complex',
-    url: 'https://art-class.github.io/assets/fleeingthecompound/index.html',
+    url: 'http://3kh0.seantrg.xyz:29089/fleeingthecomplex/',
     image: 'https://play-lh.googleusercontent.com/RDk8BpHUESL9J4H-s-07ZC1sNJol8-aZEzz3OEA99PxTYnsZd8038Y-0wRMpCQKDssU'
   },
   {
@@ -272,19 +272,19 @@ var games = [
   {
     id: 'breakingthebank',
     title: 'Henry Stickmin: Breaking the Bank',
-    url: 'https://art-class.github.io/assets/breakingthebank/index.html',
+    url: 'http://3kh0.seantrg.xyz:29089/breakingthebank/',
     image: 'https://play-lh.googleusercontent.com/I9aDLwmiy5iSjeUPs5IDI3lam8iWZ1zVnLF-V_EGvClOLuccjwLNNjZ8xltu4AN60io'
   },
   {
     id: 'slope',
     title: 'Slope',
-    url: 'https://mochaproxy.com/cdn/slope/index.html',
+    url: 'http://3kh0.seantrg.xyz:29089/slope/',
     image: 'https://play-lh.googleusercontent.com/uJn2i9h7KxYQarC_c3K4qH6o7gLtflFnhD_dN14MNkzHJ1NeNFzCL69jpB5mT0vCoQs'
   },
   {
     id: 'baldisbasics',
     title: 'Baldi\'s Basics',
-    url: 'https://baldis-basics-online.github.io/file/',
+    url: 'http://3kh0.seantrg.xyz:29089/baldis-basics/',
     image: 'https://play-lh.googleusercontent.com/EPV1TB4So1lB0DGrdCVExDpNU8ML67nd8OqBeoOIM-s6sDicxmDdPvCXD6n7LKevFl0'
   },
   {
@@ -296,7 +296,7 @@ var games = [
   {
     id: 'subwaysurfers',
     title: 'Subway Surfers',
-    url: 'https://5dd312fa-015f-11ea-ad56-9cb6d0d995f7.poki-gdn.com/aa6ed2f2-4a7b-40b7-8b1e-33b5c48842d5/index.html?country=US&ccpaApplies=0&url_referrer=https%3A%2F%2Fpoki.com%2F&tag=pg-282826d9cd3118213cc7e256baa00cc0d9768cd8&site_id=3&iso_lang=en&poki_url=https%3A%2F%2Fpoki.com%2Fen%2Fg%2Fsubway-surfers&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&categories=3%2C4%2C6%2C9%2C86%2C88%2C93%2C96%2C103%2C228%2C903%2C929%2C1103%2C1126%2C1137%2C1140%2C1143%2C1147%2C1156%2C1159%2C1160%2C1163%2C1177%2C1185%2C1190%2C1193&special_condition=landing&game_id=5dd312fa-015f-11ea-ad56-9cb6d0d995f7&game_version_id=aa6ed2f2-4a7b-40b7-8b1e-33b5c48842d5&inspector=0&csp=1',
+    url: 'http://3kh0.seantrg.xyz:29089/subway-surfers/z',
     image: 'https://cdnb.artstation.com/p/assets/images/images/040/799/939/large/celine-j-1-74-shanghai-icon-1024-x.jpg?1629908071'
   },
   {
