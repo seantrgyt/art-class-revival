@@ -2,7 +2,7 @@
   <img src="public/assets/images/icon.png" />
   <h1>Art Class Revival</h1>
 </div>
-A website with tons of games, apps, built-in proxy, emulator, and more fun goodies. This website is a fork of the [original Art Class v4,](https://github.com/art-class/v4) The original Art Class was made by [proudparrot2](https://github.com/proudparrot2), but they stopped maintaining it and shut it down. If you fork this repository, please consider giving it a star ⭐!
+A website with tons of games, apps, built-in proxy, emulator, and more fun goodies. This website is a fork of the original Art Class v4, The original Art Class was made by proudparrot2, but they stopped maintaining it and shut it down. If you fork this repository, please consider giving it a star ⭐!
 
 ## Deploy to a cloud service
 [![Deploy on Railway](https://binbashbanana.github.io/deploy-buttons/buttons/remade/railway.svg)](https://railway.app/new/template?template=https://github.com/seantrgyt/art-class-revival)
