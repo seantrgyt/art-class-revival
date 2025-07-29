@@ -41,13 +41,13 @@ body[theme="amoled"] {
     --text-color: #ebebeb;
     --background: #000000;
     --navbar: #0f0f0f;
-    --accent: #0284d4;
+    --accent: #ff0000;
 }
 body[theme="white"] {
     --text-color: #000000;
     --background: #ffffff;
     --navbar: #dbdbdb;
-    --accent: #0284d4;
+    --accent: #ff0000;
 }
 body[theme="sunset"] {
     --text-color: #ffffff;
