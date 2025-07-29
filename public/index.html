@@ -1,61 +1,35 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <link rel="shortcut icon" href="./assets/images/icon.png" type="image/png" />
+    <link
+      rel="shortcut icon"
+      href="./assets/images/icon.png"
+      type="image/png"
+    />
     <title>Art Class Revival</title>
-
     <link rel="stylesheet" href="./css/master.css" />
-
     <script src="/uv/uv.bundle.js" charset="UTF-8"></script>
     <script src="/uv/uv.config.js"></script>
     <script src="./js/preload.js"></script>
-
-    <script id="aclib" type="text/javascript" src="//acscdn.com/script/aclib.js"></script>
-  </head>
-
-  <body theme="main">
-    <nav>
-      <div class="logo">
-        <img src="./assets/images/icon.png" alt="Logo" draggable="false" />
-        <h1>Art Class Revival</h1>
-      </div>
-
-      <p id="time"></p>
-
-      <div class="navitems">
-        <div class="navitem"><a selected href="/">Home</a></div>
-        <div class="navitem"><a href="/gs.html">Games</a></div>
-        <div class="navitem"><a href="/apps.html">Apps</a></div>
-        <div class="navitem"><a href="/emulator.html">Emulator</a></div>
-        <div class="navitem"><a href="/search.html">Search</a></div>
-      </div>
-    </nav>
-
+    
     <div class="center-container">
-      <h1>Welcome to <span>Art Class Revival</span></h1>
+      <h1>The site is currently under maintenance.</h1>
+      <p id="splash">
+        The site currently under maintenance. Most games aren't working
+        after I changed them to the backup I had made of echo assets.
+        I am currently working as fast as I can to resolve this issue,
+        and hopefully you should be able to game in peace once again.
+        really sorry I had to do this while a lot of you a just now 
+        starting school, but I will fix this very soon.
+      </p>
       <br />
-      <button onclick="window.location.href='/appsnotworking.html'" class="button play">Apps not working?</button>
-      <button onclick="launchab()" id="launchab" class="button play">Launch in about:blank</button>
     </div>
-
-    <div class="links">
-      <div class="left">
-        <a href="https://github.com/seantrgyt/art-class-revival">GitHub</a>
-        <a href="https://discord.gg/tMaHQ2dyk5">OG Discord</a>
-      </div>
-
-      <div class="right">
-        <a href="./settings.html">Settings</a>
-        <a href="./about.html">About</a>
-      </div>
-    </div>
+    <script src="./js/index.js"></script>
+    
+    <script type="text/javascript">
+        aclib.runAutoTag({
+            zoneId: '6hmeyutild',
+        });
+    </script>
   </body>
-
-  <script src="./js/index.js"></script>
-
-  <script type="text/javascript" async>
-    aclib.runAutoTag({
-        zoneId: '6hmeyutild',
-    })
-  </script>
 </html>
