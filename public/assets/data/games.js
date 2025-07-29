@@ -13,7 +13,7 @@ var games = [
   {
     id: 'eggycar',
     title: 'Eggy Car',
-    url: 'http://3kh0.seantrg.xyz:29089/eggycar/',
+    url: 'http://3kh0.seantrg.xyz:29089/eggycar/index.html',
     image: 'https://assets.3kh0.net/eggycar/eggy-car.png'
   },
   {
