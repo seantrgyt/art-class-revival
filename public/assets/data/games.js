@@ -13,7 +13,7 @@ var games = [
   {
     id: 'eggycar',
     title: 'Eggy Car',
-    url: 'http://3kh0.seantrg.xyz:29089/eggycar/index.html',
+    url: 'https://glcdn.githack.com/kaioxdev/legacy-assets/-/raw/main/eggycar/index.html',
     image: 'https://assets.3kh0.net/eggycar/eggy-car.png'
   },
   {
@@ -39,7 +39,7 @@ var games = [
     id: 'fbwg',
     title: 'Fireboy and Watergirl',
     description: 'A 2 player game where you have to work together using logic and teamwork to get to the finish line.',
-    url: 'http://3kh0.seantrg.xyz:29089/fireboywatergirlforesttemple/',
+    url: 'https://glcdn.githack.com/kaioxdev/legacy-assets/-/raw/main/firebowatergirlforesttemple/index.html',
     image: 'https://play-lh.googleusercontent.com/5-YcjiTyMrPJEZe078dHMxnCxcg2A_8NWJZQieRvn2Gkf8JOuHZEbTmFyQ9gn5p2lnU'
   },
   {
@@ -71,7 +71,7 @@ var games = [
     id: 'backrooms',
     title: 'Backrooms',
     description: 'Scary game based on the viral 4Chan post.',
-    url: 'http://3kh0.seantrg.xyz:29089/backrooms/',
+    url: 'https://glcdn.githack.com/kaioxdev/legacy-assets/-/raw/main/backrooms/index.html',
     image: 'https://media.wired.com/photos/627b0c1fb6048c47d506c6c0/1:1/w_679,h_679,c_limit/Backrooms-Games.jpg'
   },
   {
@@ -83,7 +83,7 @@ var games = [
   {
     id: 'papaburgers',
     title: 'Papa\'s Burgeria',
-    url: 'http://3kh0.seantrg.xyz:29089/papasburgeria/',
+    url: 'https://glcdn.githack.com/kaioxdev/legacy-assets/-/raw/main/papasburgeria/index.html',
     image: 'https://i.flipline.com/gamefiles/papasburgeriatogo/app_upsell_C.jpg'
   },
   {
@@ -101,7 +101,7 @@ var games = [
   {
     id: 'jetpackjoyride',
     title: 'Jetpack Joyride',
-    url: 'http://3kh0.seantrg.xyz:29089/jetpack-joyride/',
+    url: 'https://glcdn.githack.com/kaioxdev/legacy-assets/-/raw/main/jetpack-joyride/index.html',
     image: 'https://play-lh.googleusercontent.com/Pl2nmu5U9CH3NQqLBTjnokoV325zESrX6KIaHrwSqREEJDWIv1yJpRCXzl9r3oMnEWHC',
   },
   {
@@ -115,20 +115,20 @@ var games = [
     id: 'plantsvszombies',
     title: 'Plants Versus Zombies 1.0',
     description: 'Plants Versus Zombies 1.0 is a tower defense video game where players strategically plant a variety of plants to fend off waves of zombie invaders.',
-    url: 'http://3kh0.seantrg.xyz:29089/plants%20vs%20zombies%201/plants%20vs%20zombies.html',
+    url: 'https://glcdn.githack.com/kaioxdev/legacy-assets/-/raw/main/plants%20vs%20zombies%201/plants%20vs%20zombies.html',
     image: 'http://cm1.narvii.com/6715/5bef9754b89ffbf36e5afb2c4dac9860b9614987_00.jpg'
   },
   {
     id: 'happywheels',
     title: 'Happy Wheels',
-    url: 'http://3kh0.seantrg.xyz:29089/happywheels/',
+    url: 'https://glcdn.githack.com/kaioxdev/legacy-assets/-/raw/main/happywheels/index.html',
     image: 'https://play-lh.googleusercontent.com/SV8RsV5udSeeONjatT5SwleP6lzV6PjtNPs2VvyohJXWSG9fFLNOfslDEHbpDN337wQ'
   },
   {
     id: 'motox3m',
     title: 'MotoX3M',
     //url: 'https://assets.3kh0.net/motox3m/index.html',
-    url: 'http://3kh0.seantrg.xyz:29089/motox3m/',
+    url: 'https://glcdn.githack.com/kaioxdev/legacy-assets/-/raw/main/motox3m/index.html',
     image: 'https://play-lh.googleusercontent.com/AbQMuT4ncBfWDqNF-4ubmfaRag59nrW3fJARDsHK51_PENScmWCnMFeQX81wfPlfGBo'
   },
   {
@@ -147,24 +147,24 @@ var games = [
   {
     id: 'paperio2',
     title: 'Paper.io 2',
-    url: 'http://3kh0.seantrg.xyz:29089/paperio2/',
+    url: 'https://glcdn.githack.com/kaioxdev/legacy-assets/-/raw/main/paperio2/index.html',
     image: 'https://play-lh.googleusercontent.com/KxcjUrs8S75iOPnKBR2b-s7eGtqbREwLgzttVxaM9Znl5ZxsDCl6qEZHny4rBkMeYA=w240-h480-rw'
   },
   {
     id: 'impossiblequiz',
     title: 'The Impossible Quiz',
-    url: 'http://3kh0.seantrg.xyz:29089/impossiblequiz/',
+    url: 'https://glcdn.githack.com/kaioxdev/legacy-assets/-/raw/main/impossiblequiz/index.html',
     image: 'https://ih1.redbubble.net/image.489460698.9522/st,small,507x507-pad,600x600,f8f8f8.jpg'
   },
   {
     id: 'ducklife4',
     title: 'Duck Life 4',
-    url: 'http://3kh0.seantrg.xyz:29089/ducklife4/',
+    url: 'https://glcdn.githack.com/kaioxdev/legacy-assets/-/raw/main/ducklife4/index.html',
     image: 'https://play-lh.googleusercontent.com/AUGkRrKMtUCLVE9vCvlfMY9Ny9EBqzx17yejVtEEhvpkw-H6lJlvBHgCMqPJm8HV_tM'
   },
   {
     id: 'retrobowl',
-    url: 'http://3kh0.seantrg.xyz:29089/retro-bowl/',
+    url: 'https://glcdn.githack.com/kaioxdev/legacy-assets/-/raw/main/retro-bowl/index.html',
     title: 'Retro Bowl',
     image: 'https://play-lh.googleusercontent.com/WRM5Y1xZmzcCP1YtO5zl6G2g7CU5c5ZfjX4UVrgi1bpNgkfy-wuB-bQx3kkeRfaGYQ'
   },
@@ -183,7 +183,7 @@ var games = [
   {
     id: 'stickmanhook',
     title: 'Stickman Hook',
-    url: 'http://3kh0.seantrg.xyz:29089/stickman-hook/',
+    url: 'https://glcdn.githack.com/kaioxdev/legacy-assets/-/raw/main/stickman-hook/index.html',
     image: 'https://play-lh.googleusercontent.com/yXqBI1Vb1b-xjwmXLE2T7FQbgHIxfvjze1b6jO2aLHfy8Y8ta7NFSEVqZoPHtM2Ajyrl'
   },
   {
@@ -211,13 +211,13 @@ var games = [
     id: 'justfall',
     title: 'Just Fall',
     description: 'Just Fall is a game similar to Fall Guys, where you compete in minigames to be the sole winner',
-    url: 'http://3kh0.seantrg.xyz:29089/just-fall/',
+    url: 'https://glcdn.githack.com/kaioxdev/legacy-assets/-/raw/main/just-fall/index.html',
     image: 'https://play-lh.googleusercontent.com/-0rSllZ8as88Jcs3iZ7-JCFyTb3YLB-HjR7bY7P6q_2MAswmDH4h1qNPfFiaZqzkkg'
   },
   {
     id: 'sm64',
     title: 'Super Mario 64',
-    url: 'http://3kh0.seantrg.xyz:29089/sm64/',
+    url: 'https://glcdn.githack.com/kaioxdev/legacy-assets/-/raw/main/sm64/index.html',
     image: 'https://assets1.ignimgs.com/2019/05/31/mario-64---button-1559263987447.jpg',
     description: 'Controls: <br>Movement: Arrow Keys <br>A: X <br>B: C <br>R: Q <br>Z: Space <br>Start: Enter <br>C-stick: WASD<br><br>You might need to go into fullscreen for the keybinds to register'
   },
@@ -248,7 +248,7 @@ var games = [
   {
     id: 'awesometanks2',
     title: 'Awesome Tanks 2',
-    url: 'http://3kh0.seantrg.xyz:29089/awesometanks2/',
+    url: 'https://glcdn.githack.com/kaioxdev/legacy-assets/-/raw/main/awesometanks2/index.html',
     image: 'https://play-lh.googleusercontent.com/fiH2wSovQkxQ2dQViDAphNBbM0B1dYxTlJqnYwKXeSoQQZbBNkZZuLyMkv4gglb7LH4'
   },
   {
@@ -260,7 +260,7 @@ var games = [
   {
     id: 'fleeingthecomplex',
     title: 'Henry Stickmin: Fleeing the Complex',
-    url: 'http://3kh0.seantrg.xyz:29089/fleeingthecomplex/',
+    url: 'https://glcdn.githack.com/kaioxdev/legacy-assets/-/raw/main/fleeingthecomplex/index.html',
     image: 'https://play-lh.googleusercontent.com/RDk8BpHUESL9J4H-s-07ZC1sNJol8-aZEzz3OEA99PxTYnsZd8038Y-0wRMpCQKDssU'
   },
   {
@@ -272,19 +272,19 @@ var games = [
   {
     id: 'breakingthebank',
     title: 'Henry Stickmin: Breaking the Bank',
-    url: 'http://3kh0.seantrg.xyz:29089/breakingthebank/',
+    url: 'https://glcdn.githack.com/kaioxdev/legacy-assets/-/raw/main/breakingthebank/index.html',
     image: 'https://play-lh.googleusercontent.com/I9aDLwmiy5iSjeUPs5IDI3lam8iWZ1zVnLF-V_EGvClOLuccjwLNNjZ8xltu4AN60io'
   },
   {
     id: 'slope',
     title: 'Slope',
-    url: 'http://3kh0.seantrg.xyz:29089/slope/',
+    url: 'https://glcdn.githack.com/kaioxdev/legacy-assets/-/raw/main/slope/index.html',
     image: 'https://play-lh.googleusercontent.com/uJn2i9h7KxYQarC_c3K4qH6o7gLtflFnhD_dN14MNkzHJ1NeNFzCL69jpB5mT0vCoQs'
   },
   {
     id: 'baldisbasics',
     title: 'Baldi\'s Basics',
-    url: 'http://3kh0.seantrg.xyz:29089/baldis-basics/',
+    url: 'https://glcdn.githack.com/kaioxdev/legacy-assets/-/raw/main/baldis-basics/index.html',
     image: 'https://play-lh.googleusercontent.com/EPV1TB4So1lB0DGrdCVExDpNU8ML67nd8OqBeoOIM-s6sDicxmDdPvCXD6n7LKevFl0'
   },
   {
@@ -296,7 +296,7 @@ var games = [
   {
     id: 'subwaysurfers',
     title: 'Subway Surfers',
-    url: 'http://3kh0.seantrg.xyz:29089/subway-surfers/z',
+    url: 'https://glcdn.githack.com/kaioxdev/legacy-assets/-/raw/main/subway-surfers/index.html',
     image: 'https://cdnb.artstation.com/p/assets/images/images/040/799/939/large/celine-j-1-74-shanghai-icon-1024-x.jpg?1629908071'
   },
   {
