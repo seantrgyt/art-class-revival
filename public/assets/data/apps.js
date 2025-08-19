@@ -130,7 +130,7 @@ var apps = [
       'url': 'https://poki.com',
       "image": "https://play-lh.googleusercontent.com/q4fiVQZ6HV0A9CSL8mE-v5zXJvVhGGaOAroL9OdjDz1yJsyyULGlqhlCvdnQOzRSXxs",
       "description": "No games you want to play on here? You can still access Poki from here if it is blocked for you."
-    }    
+    },    
     {
       'id': 'anura',
       'title': 'AnuraOS',
