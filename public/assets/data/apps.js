@@ -132,12 +132,6 @@ var apps = [
       "description": "No games you want to play on here? You can still access Poki from here if it is blocked for you."
     },    
     {
-      'id': 'bromine',
-      'title': 'Bromine',
-      'url': 'https://bromine.pages.dev',
-      "image": "https://cdn.discordapp.com/icons/1379249910502916177/967b54ee100440a738c129c9af8e7e79.webp",
-    },    
-    {
       'id': 'anura',
       'title': 'AnuraOS',
       'url': 'https://anura.pro',
