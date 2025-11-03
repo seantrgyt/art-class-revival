@@ -137,6 +137,12 @@ var apps = [
       'url': 'https://helios-browser.vercel.app/',
       "image": "https://cdn-icons-png.flaticon.com/512/4387/4387430.png",
       "description": "If you just want to browse the web, this is for you."
+    },    
+    {
+      'id': 'cobalt',
+      'title': 'Cobalt.tools (meowing)',
+      'url': 'https://cobalt.meowing.de',
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJ4AAACUCAMAAABVwGAvAAAAY1BMVEUAAAD////x8fHp6en09PSnp6eWlpZBQUFgYGD6+vrV1dVycnINDQ3d3d3Y2Ng4ODiEhIRWVlbAwMCurq4oKCjIyMgVFRUbGxu1tbUtLS1OTk6Ojo55eXlHR0dsbGxmZmafn5/X/4fkAAAENElEQVR4nO2c25qqMAyFaTmDKMLg+fT+T7mrM852ZKXSGSK9yH/hXb4uQ5KmLTRQV5LAO5KbsOD6E0+tBRHf5TVTK8E0n/L0YmohmIW+yaun1kFRX+VVU6ugqYw8D7P2TqKCMJ1aBE0aBsXUGmwUgZc1704clFNLsFEGHoeeCb5gNrUEG16LEwRBEARBEARBEARBGMLO1WDJoYJEt44GYfvOLRulov2Hi0Gk1H7LpabH9VSmcjlV0MYg3LPpeeJ2qKWq42AD/WmQMWp6QH3RDB1Pfxl0J1ZdX9zlqWgzzOAuT+Ubp5j9HeqBZMi5m34wiNn3rB/lDQp5/cPg8k55ZrzzykWeMahfGYwpz4T8izMQ/WxQHN4pT+WNNaKivkExvCy50nPGLeQt41XIYOM8dQ/kGKPhQvqANb0gAz2wLLmzavrPy5TBek1abKDLE66ZOOvQcJaQXzbIwGnqduIII6qge7tdkaOYyLiarXqOBFpC/gBd3nG1Ch81iqiI7lbXhxAY5A3bTHyB4yX0eHsYE2wzcQqrTEXnyCJBBpay9EdwlQnPtEGMDPKSLkt/4wyLRkfnyLJFBgXb6wvLAvnDMhMfO1RlLGXpj9RQYEx3qydYZVqumXh9QFUmpKeFdYayPorZ1sQJGk+XdPNZoyrjuIh2ALcmc3pa2CYoBPlm4vUGFQ3bvBXDmOBLYlRl8pbOkRRWmYYtiY+oVcgvdEQtUJVhnIlLVGW0JaIy7HIufbCXsb7tWaIk5pIXoCoztxuAKsMoz7QmkZM84/Lnf8Qpr5fDr+QFx+ccZhRX9qL9hbysXzK5tK3OVb9WWOUtUXHhETfDiyRL5h5gx8gjD653zERF7o2e52jmNb3B+NoWe7gfoOZUc78l/k3FsVd+gQsxVZVUF4dXbmaKGX9/I43hQ8rJjopyNUfDcmzxWB21qPxoicdaj98wp3A5acY6E2Nt8aaV8dz4C8rTBg5Fb+tmhEHBkBA7uCq8ZivhuQXh6vAwuufWJazBlu1jvIQ0/4bh0Ah2noaGqnMlJe4wekJs4drWeK4jPLc94WTNq/GXFjOiBqsN4bkVUYNfHoz8ghXc2rsuYQhHrPbYQBXZ6KdEOzxBqKghNknSC05WOkh/z4ooqfTqlJggOI54qZKqG6JqLQmDqOP4zBE/VtWSyUd4bvBpuhvQEZZdCngIx+M5LC+yHfhBebSrR5eX28UBeWynkX15Yftyq+anPG2Lg7HlDTkw+SFvw/1G1YPnhn1I+V9eyLbp9J/vhEgGHjXd5eX8b4kEd3l6P7h1/JSnY9YXML65PSXLqV6Pqzx9edc7aNf1u1PyRQPfFhoH59PD+YVDBoWzI7z+1FcQBEEQBEEQBEEQBIETr+/xmvm9b5P6fsGd59cDen65oudXU3p+safv16J6fqms71fyen6hse/XQXt8mfY/tYwpGrNJ0PMAAAAASUVORK5CYII=",
     }    
   ]
   
