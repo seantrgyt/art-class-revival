@@ -509,6 +509,12 @@ var games = [
     image: 'https://www.google.com/imgres?q=google%20doodle%20baseball&imgurl=https%3A%2F%2Fgoogle-doodlebaseball.github.io%2Fcache%2Fdata%2Fimage%2Fgame%2Fgoogle-doodle-baseball%2Fgooglebaseball-m186x186.webp&imgrefurl=https%3A%2F%2Fgoogle-doodlebaseball.github.io%2F&docid=MxNOJAlmdmYDNM&tbnid=T-TOV3H-_-EOrM&vet=12ahUKEwji88uC5NuQAxWNlokEHbgrFqcQM3oECB8QAA..i&w=186&h=186&hcb=2&ved=2ahUKEwji88uC5NuQAxWNlokEHbgrFqcQM3oECB8QAA'
   },
   {
+    id: 'esroad2',
+    title: 'Escape Road 2',
+    url: 'https://azgames.io/escape-road-2',
+    image: 'https://azgames.io/upload/cache/upload/imgs/escaperoad21-m200x200.webp'
+  },
+  {
     id: 'crazycattle',
     title: 'Crazy Cattle 3D',
     url: 'https://crazycattle3d.io/game/crazycattle3d/v11/',
