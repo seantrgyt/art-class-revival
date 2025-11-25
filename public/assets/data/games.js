@@ -511,7 +511,7 @@ var games = [
   {
     id: 'esroad2',
     title: 'Escape Road 2',
-    url: 'https://azgames.io/escape-road-2',
+    url: 'https://escape-road-2.game-files.crazygames.com/unity/unity2020/escape-road-2.html?v=1.345',
     image: 'https://azgames.io/upload/cache/upload/imgs/escaperoad21-m200x200.webp'
   },
   {
