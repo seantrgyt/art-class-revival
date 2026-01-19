@@ -511,7 +511,7 @@ var games = [
   {
     id: 'esroad2',
     title: 'Escape Road 2',
-    description: 'WHEN PROPMPTED, PLEASE PRESS CONTINUE OFFLINE'
+    description: 'WHEN PROPMPTED, PLEASE PRESS CONTINUE OFFLINE',
     url: 'https://games.crazygames.com/en_US/escape-road-2/index.html?v=1.348',
     image: 'https://azgames.io/upload/cache/upload/imgs/escaperoad21-m200x200.webp'
   },
